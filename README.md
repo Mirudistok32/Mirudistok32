@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="./assets/header.svg" alt="Станислав Постников — frontend-разработчик" />
-</div>
+# Привет, я Стас 👋
 
-Привет — я Стас. Делаю веб-интерфейсы на **TypeScript** и **React**: чтобы экран читался, код оставался понятным, а сервис нормально жил и на телефоне, и на десктопе.
+**Frontend-разработчик.** Делаю веб-интерфейсы на **TypeScript** и **React**: чтобы экран читался, код оставался понятным, а сервис нормально жил и на телефоне, и на десктопе.
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,scss,vite,nodejs,git" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Sass, Vite, Node.js, Git" />
-</div>
+</p>
 
 ## Чем занимаюсь
 
@@ -25,13 +23,11 @@
 
 ## GitHub
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mirudistok32&show_icons=true&theme=transparent&hide_border=true&locale=ru&include_all_commits=true" alt="Статистика GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirudistok32&layout=compact&theme=transparent&hide_border=true&locale=ru&hide=html" alt="Топ языков" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirudistok32&show_icons=true&theme=transparent&hide_border=true&locale=ru&include_all_commits=true" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirudistok32&layout=compact&theme=transparent&hide_border=true&locale=ru&hide=html" alt="Топ языков" />
+</p>
 
 ---
 
-<div align="center">
-  Если интересно посмотреть код или обсудить задачу — пишите в GitHub.
-</div>
+<p align="center">Если интересно посмотреть код или обсудить задачу — пишите в GitHub.</p>
