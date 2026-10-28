@@ -1,33 +1,37 @@
-# Привет 👋
+# Привет, я Станислав 👋
 
-**Frontend-разработчик.** Делаю веб-интерфейсы на **TypeScript** и **React**: чтобы экран читался, код оставался понятным, а сервис нормально жил и на телефоне, и на десктопе.
+**Senior Frontend-разработчик** из Санкт-Петербурга. 8 лет в коммерческой разработке: Next.js, React,
+TypeScript. Делаю интерфейсы, которые быстро грузятся и не бесят, собираю UI-библиотеки, слежу за
+производительностью и SEO. В работе активно использую AI-агентов: Claude Code, Cursor, MCP.
+
+**Портфолио:** [mirudistok32.github.io/portfolio](https://mirudistok32.github.io/portfolio/) — опыт,
+проекты и резюме в PDF. Рассматриваю предложения.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,scss,vite,nodejs,git" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Sass, Vite, Node.js, Git" />
 </p>
 
-## Чем занимаюсь
+## Опыт
 
-- клиентская архитектура и UI на React / TypeScript
-- адаптив, вёрстка, аккуратные формы и экраны
-- небольшие утилиты и пет-проекты, когда хочется быстро проверить идею в коде
+- **SimbirSoft**, Senior, 2024 — сейчас: PropTech, промо-сайты 18 ЖК, общая UI-библиотека
+- **Звук**, Middle, 2021 — 2024: стриминг, аудиоплеер и библиотека аналитики Clickstream
+- **SimbirSoft**, Middle, 2020 — 2021: внутренняя соцсеть, архитектура клиента, лид команды
+- **ABBYY**, Middle, 2020: распознавание сканов, работа с документом и настройками
 
-## Избранное
+Подробно, с цифрами и стеком, — в [портфолио](https://mirudistok32.github.io/portfolio/).
 
-- **[ClickMeGame](https://github.com/Mirudistok32/ClickMeGame)** — кликер на React и TypeScript
-- **[portfolio-v1](https://github.com/Mirudistok32/portfolio-v1)** — первая версия портфолио
-- **[rem-adaptive](https://github.com/Mirudistok32/rem-adaptive)** — React + Vite, адаптивная вёрстка
-- **[social-network-code-2](https://github.com/Mirudistok32/social-network-code-2)** — учебная соцсеть на TypeScript
-- **[generator-password](https://github.com/Mirudistok32/generator-password)** — генератор паролей
-- **[cloud-mir-v1.0](https://github.com/Mirudistok32/cloud-mir-v1.0)** — учебное облачное хранилище
+## Проекты
 
-## GitHub
+- **[portfolio](https://github.com/Mirudistok32/portfolio)** · [сайт](https://mirudistok32.github.io/portfolio/) —
+  портфолио на Next.js: пиксельная сцена со сменой времени суток, ачивки, статический экспорт
+- **[ai-engineer-roadmap](https://github.com/Mirudistok32/ai-engineer-roadmap)** ·
+  [сайт](https://mirudistok32.github.io/ai-engineer-roadmap/) — карта AI-инженера на React, TypeScript и Vite
+- **[ai-learn-landing](https://github.com/Mirudistok32/ai-learn-landing)** ·
+  [сайт](https://mirudistok32.github.io/ai-learn-landing/) — понятный гид по моделям, агентам, MCP и RAG
+- **[fit-veider-landing](https://github.com/Mirudistok32/fit-veider-landing)** ·
+  [сайт](https://mirudistok32.github.io/fit-veider-landing/) — лендинг о принципах тренировок
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirudistok32&show_icons=true&theme=transparent&hide_border=true&locale=ru&include_all_commits=true" alt="Статистика GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirudistok32&layout=compact&theme=transparent&hide_border=true&locale=ru&hide=html" alt="Топ языков" />
-</p>
+## Контакты
 
----
-
-<p align="center">Если интересно посмотреть код или обсудить задачу — пишите в GitHub.</p>
+[Telegram](https://t.me/mirudistok) · [mirudistok32@yandex.ru](mailto:mirudistok32@yandex.ru) ·
+[Портфолио](https://mirudistok32.github.io/portfolio/)
