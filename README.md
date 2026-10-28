@@ -35,5 +35,5 @@ TypeScript. Делаю интерфейсы, которые быстро гру�
 
 ## Контакты
 
-[Telegram](https://t.me/mirudistok) · [mirudistok32@yandex.ru](mailto:mirudistok32@yandex.ru) ·
+[Telegram](https://t.me/postnikov_st) · [mirudistok32@yandex.ru](mailto:mirudistok32@yandex.ru) ·
 [Портфолио](https://mirudistok32.github.io/portfolio/)
