@@ -30,8 +30,32 @@ TypeScript. Делаю интерфейсы, которые быстро гру�
   [сайт](https://mirudistok32.github.io/ai-engineer-roadmap/) — карта AI-инженера на React, TypeScript и Vite
 - **[ai-learn-landing](https://github.com/Mirudistok32/ai-learn-landing)** ·
   [сайт](https://mirudistok32.github.io/ai-learn-landing/) — понятный гид по моделям, агентам, MCP и RAG
-- **[fit-veider-landing](https://github.com/Mirudistok32/fit-veider-landing)** ·
-  [сайт](https://mirudistok32.github.io/fit-veider-landing/) — лендинг о принципах тренировок
+
+## Таймер
+
+- **[Fizkulture](https://fizkulture.vercel.app/timer)** — интервальный таймер и Табата в приложении для
+  тренировок: работает офлайн и без аккаунта, данные хранятся в браузере
+
+## Игры
+
+Пиксельные игры в браузере: всё нарисовано кодом на canvas, звуки синтезируются Web Audio.
+
+- **[Голубиная почта](https://github.com/Mirudistok32/pigeon-post)** ·
+  [играть](https://mirudistok32.github.io/pigeon-post/) — голубь несёт письмо через деревню мимо
+  грозовых туч и ястребов
+- **[Мельник](https://github.com/Mirudistok32/miller)** ·
+  [играть](https://mirudistok32.github.io/miller/) — головоломка: поверни жёлоба, чтобы вода дошла
+  до мельничного колеса; уровень дня и бесконечный режим
+- **[Пастух в тумане](https://github.com/Mirudistok32/fog-shepherd)** ·
+  [играть](https://mirudistok32.github.io/fog-shepherd/) — собака собирает стадо в загон до рассвета;
+  видно только вокруг неё
+
+## Курсы
+
+- **[Кино как способ мышления](https://github.com/Mirudistok32/film-course)** ·
+  [сайт](https://mirudistok32.github.io/film-course/) — курс визуального мышления: 13 уровней и 100 фильмов
+- **[Mindforge](https://mindforge-beryl.vercel.app)** — тренажёр критического мышления: уроки, кейсы-расследования
+  и интервальное повторение
 
 ## Контакты
 
